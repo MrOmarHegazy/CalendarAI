@@ -72,3 +72,12 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# React Native
+node_modules/
+ios/Pods/
+*.xcworkspace
+*.xcuserdata
+*.lock
+*.log
+
